@@ -1,0 +1,10 @@
+{
+    "name": "eventbookings/eventbookings",
+    "description": "PHP SDK for the EventBookings REST API.",
+    "type": "library",
+    "keywords": ["eventbookings", "sdk", "api-client"],
+    "license": "proprietary",
+    "require": {
+        "php": ">=8.1"
+    }
+}
